@@ -23,7 +23,8 @@ Alt-H2
 #### h4 Heading
 ##### h5 Heading
 ###### h6 Heading
-33
+###### h6 Heading
+
 ## Change
 ###change
 Alternatively, for H1 and H2, an underline-ish style:
